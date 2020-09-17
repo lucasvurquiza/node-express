@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Projeto do Curso - Introduçao ao Node.js com Express",
+  "main": "index.js",
+  "author": "Lucas Vieira Urquiza",
+  "license": "MIT"
+}
